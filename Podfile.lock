@@ -1,0 +1,68 @@
+PODS:
+  - ActionSheetPicker-3.0 (2.2.0)
+  - Alamofire (3.5.0)
+  - Nimble (3.2.0)
+  - Quick (0.9.0)
+  - RxAlamofire (2.5):
+    - RxAlamofire/Core (= 2.5)
+  - RxAlamofire/Core (2.5):
+    - Alamofire (~> 3.4)
+    - RxSwift (~> 2.5)
+  - RxBlocking (2.6.0):
+    - RxSwift (~> 2.5)
+  - RxCocoa (2.6.0):
+    - RxSwift (~> 2.5)
+  - RxSwift (2.6.0)
+  - RxTests (2.6.0):
+    - RxSwift (~> 2.5)
+  - SwiftDate (3.0.8)
+  - SwiftLoader (0.2.5)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - ActionSheetPicker-3.0 (~> 2.2.0)
+  - Alamofire (~> 3.5)
+  - Nimble (from `https://github.com/TaemoonCho/Nimble.git`, tag `v3.2.1`)
+  - Quick (from `https://github.com/Quick/Quick`, tag `v0.9.0`)
+  - RxAlamofire (~> 2.5)
+  - RxBlocking (~> 2.6)
+  - RxCocoa (~> 2.6)
+  - RxSwift (~> 2.6)
+  - RxTests (~> 2.6)
+  - SwiftDate
+  - SwiftLoader
+  - SwiftyJSON
+
+EXTERNAL SOURCES:
+  Nimble:
+    :git: https://github.com/TaemoonCho/Nimble.git
+    :tag: v3.2.1
+  Quick:
+    :git: https://github.com/Quick/Quick
+    :tag: v0.9.0
+
+CHECKOUT OPTIONS:
+  Nimble:
+    :git: https://github.com/TaemoonCho/Nimble.git
+    :tag: v3.2.1
+  Quick:
+    :git: https://github.com/Quick/Quick
+    :tag: v0.9.0
+
+SPEC CHECKSUMS:
+  ActionSheetPicker-3.0: d11a4c12c6aaf704b8a3f56d179198c99f3e41e6
+  Alamofire: b70a7352335f8ea5babd0a923eb7e8eacc67b877
+  Nimble: 703854335d181df169bbca9c97117b5cf8c47c1d
+  Quick: 332eb1da73125a2106dd637424c803f2ae97e4a9
+  RxAlamofire: b4572a077b6b2410c8732a27266299df4c00736e
+  RxBlocking: f2e0a7e74d5e9d3029d2b1118e2af01f583fbdd8
+  RxCocoa: 89ab00d5753502520227940e3a0e0a0413683c6b
+  RxSwift: 77f3a0b15324baa7a1c9bfa9f199648a82424e26
+  RxTests: cdcc379c70e80089a8bc2c99515223339d1c3b81
+  SwiftDate: 971f8b9394f664f2226b9c3ab64e801a7291c612
+  SwiftLoader: 12d7a6f661f5e9a2c9a72003e7dd6162f4ff0cc4
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+PODFILE CHECKSUM: 0883a18b265b0d711a0dee967d1589827673cdc9
+
+COCOAPODS: 1.0.1
